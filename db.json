@@ -1,0 +1,16 @@
+{
+    "blogs": [
+      {
+        "title": "javascript is a web lanaguage",
+        "date": "23-feb-2001",
+        "desc":"this is just for testing the output",
+        "id": 1
+      },
+      {
+        "title": "Opening Party!",
+        "date": "24-feb-2021",
+        "desc":"this is also just for the testing purpose",
+        "id": 2
+      }
+    ]
+  }
